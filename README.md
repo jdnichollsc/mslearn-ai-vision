@@ -14,3 +14,5 @@ Lab files for Azure AI Vision modules
 
 - Azure Vision Studio: https://portal.vision.cognitive.azure.com/gallery/featured
 
+- Azure AI Custom Vision: https://www.customvision.ai/
+
