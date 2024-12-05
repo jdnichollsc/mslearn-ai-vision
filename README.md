@@ -19,3 +19,5 @@ Lab files for Azure AI Vision modules
 - Azure AI Exercises: https://microsoftlearning.github.io/mslearn-ai-vision/
 
 - Lab files for AI-102 - AI Engineer: https://github.com/MicrosoftLearning/AI-102-AIEngineer
+
+- Azure AI Video Indexer: https://www.videoindexer.ai/media/samples
