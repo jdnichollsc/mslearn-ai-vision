@@ -16,3 +16,4 @@ Lab files for Azure AI Vision modules
 
 - Azure AI Custom Vision: https://www.customvision.ai/
 
+- Azure AI Exercises: https://microsoftlearning.github.io/mslearn-ai-vision/
