@@ -16,7 +16,7 @@ Lab files for Azure AI Vision modules
 
 - Azure AI Custom Vision: https://www.customvision.ai/
 
-- Azure AI Exercises: https://microsoftlearning.github.io/mslearn-ai-vision/
+- Azure AI Vision Exercises: https://microsoftlearning.github.io/mslearn-ai-vision/
 
 - Lab files for AI-102 - AI Engineer: https://github.com/MicrosoftLearning/AI-102-AIEngineer
 
